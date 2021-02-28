@@ -1,2 +1,2 @@
 # Bee-image-classification
-common transformations of bee images built into a pipeline, building classifiers and using deep learning for computer vision
+Being able to identify bee images allows researchers to collect more accurate data in the field.  The Python image library Pillow will be used to load and manipulate bee image data. Common transformations of bee images will be built into a pipeline, classifiers will be built and deep learning for computer vision will be utilized to determine if images are a honey bee or bumble bee. 
